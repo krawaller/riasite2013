@@ -6,7 +6,7 @@
 *   **Prototype chain**. Bra länk: [Prototypediskussion på DailyJS][1]
 
 
-Bra rseures fdsö fkdsfsd fsd&nbsp;[Resig's Learn app][2]&nbsp;är obligatorisk att gå igenom i [Steg 0][3]
+Bra rseures fdsö fkdsfsd fsd [Resig's Learn app][2] är obligatorisk att gå igenom i [Steg 0][3]
 
 Also: [JS Scope Quiz][4].
 
