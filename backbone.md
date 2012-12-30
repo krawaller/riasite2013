@@ -1,5 +1,5 @@
 
-Addy Osmani bok&nbsp;[onlineversion in progress][1]. Finns också kapitel om Backbone i [JavaScript Web Applications][2] E-bok [Recipes for Backbone][3]. Avancerad men jäkligt bra bla bla inte AMD-kompatibel! [Diskussion][4]. Observera att Backbone inte är AMD-kompatibelt, så om du tänker använda RequireJS bör du slänga ett öga på dess [resurssida][5]. Nick Gauthier på Youtube: [tutorial][6] Två bra siter: 
+Addy Osmani bok [onlineversion in progress][1]. Finns också kapitel om Backbone i [JavaScript Web Applications][2] E-bok [Recipes for Backbone][3]. Avancerad men jäkligt bra bla bla inte AMD-kompatibel! [Diskussion][4]. Observera att Backbone inte är AMD-kompatibelt, så om du tänker använda RequireJS bör du slänga ett öga på dess [resurssida][5]. Nick Gauthier på Youtube: [tutorial][6] Två bra siter: 
 
 *   [Backbone Patterns][7]
 *   [Backbone Tutorials][8] Relationer i Backbone! 
