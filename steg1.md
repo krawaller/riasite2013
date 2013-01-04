@@ -6,7 +6,7 @@ Denna vecka kommer du tillbringa i vapenförrådet för att studera och välja u
     *   Läs på om [koddokumentering][3] och bestäm dig för hur du vill göra.
     *   Kika på [Twitter Bootstrap][4] och se om du vill använda det. Om du redan är bekväm i annan, liknande lösning så är det helt ok att använda denna istället. Det är inget krav att använda ett "UI-hjälpmedel" över huvud taget, men det ger bonuspoäng att göra det.
     *   Fundera över om du vill använda **relationer** i Backbone, och hur dessa i så fall skall upprättas.
-    *   Skall du använda Backbones vanliga localStorage-modul, eller vågar du dig på den elakare asynkrona versionen?
+    *   Skall du använda Backbones [vanliga localStorage-modul][10], eller vågar du dig på den elakare [asynkrona versionen][9]?
     *   Kanske vill du göra din applikation [offline-säker][5]?
     *   En större fråga: vill du [arbeta testdrivet][6]? Detta beslut kommer ha ganska stor påverkan på hur du arbetar framöver. Tröskeln för att komma igång med testdriven utveckling kan vara ganska hög, men när man väl är över den så kommer du aldrig vända dig om. Om du ger dig på detta så måste du välja vilket bibliotek du skall använda för dina test.
     *   Förmodligen har du hört talas om [CoffeeScript][7] - kanske är detta läget att prova, om du inte redan gjort det?
@@ -22,3 +22,5 @@ Denna vecka kommer du tillbringa i vapenförrådet för att studera och välja u
  [6]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/test-driven-utveckling/
  [7]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/coffeescript/
  [8]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/applikationsideer/  
+ [9]: https://gist.github.com/4450947
+ [10]: https://github.com/jeromegn/Backbone.localStorage/blob/master/backbone.localStorage.js

@@ -7,11 +7,11 @@ Nu är det äntligen dags att ta de första spadtagen till applikationen! Följa
 2.  Och så börjar vi gräva! Din applikation skall bo i ett repositorium på Github, så vi måste inleda med att skapa ett sådant. Det gör du genom att forka [mallrepositoriet][2]. Mallen innehåller inga filer, utan är ett sätt för kursledningen att enkelt ha överblick över kursdeltagarnas repositorier.
 3.  När du har repositoriet på plats skall det fyllas med de **verktyg** du valt att använda:
     *   Backbone, Underscore och jQuery
-    *   localStorage-plugin till Backbone
-    *   Eventuell relations-plugin till Backbone
+    *   localStorage-plugin till Backbone (den [vanliga][6] eller den [elakare asynkrona][7])
+    *   Eventuella övriga Backboneplugins såsom relationshanterare, Marionett, etc
     *   Brocco, om du valt det som dokumentationslösning
     *   Testbibliotek, om du skall utveckla testdrivet
-    *   RequireJS om det skall användas
+    *   [RequireJS][3] om det skall användas, tillsammans med eventuella plugins om du tänker testa [sweet][4]/[coffeescript][5]
     *   eventuellt Twitter Bootstrap eller annan UI-lösning
     *   kanske AsyncJS
     *   övriga favoritleksaker du vill använda
@@ -19,4 +19,9 @@ Nu är det äntligen dags att ta de första spadtagen till applikationen! Följa
 5.  Slutligen, i sedvanlig ordning, skall steget sammanfattas i ett **blogginlägg**.
 
  [1]: http://yuml.me/
- [2]: https://github.com/krawaller/riamall2013/  
+ [2]: https://github.com/krawaller/riaprojekt2013/ 
+ [3]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/require/
+ [4]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/sweet-js/
+ [5]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/coffeescript/
+ [6]: https://github.com/jeromegn/Backbone.localStorage
+ [7]: https://gist.github.com/4450947

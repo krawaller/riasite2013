@@ -34,6 +34,7 @@ Vi skulle också kunna göra så att vi inte behöver använda &quot;tomma paren
 *    [Sweet.js wiki][3]
 *    [Dedikerat avsnitt av JavaScript Jabber podcast][4]
 *    [Diskuterande blogpost][5]
+*    I det officiella [riademoprojektet][6] så är allt ihopkopplat, släng gärna ett öga där!
 
 
 
@@ -42,3 +43,4 @@ Vi skulle också kunna göra så att vi inte behöver använda &quot;tomma paren
 [3]: https://github.com/mozilla/sweet.js/wiki/Example-macros
 [4]: http://javascriptjabber.com/039-jsj-sweet-js-with-tim-disney/
 [5]: http://jlongster.com/why-sweet.js-matters
+[6]: http://krawaller.github.com/riademo/
