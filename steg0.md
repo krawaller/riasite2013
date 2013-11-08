@@ -1,6 +1,3 @@
-[cp-message-box header="Vecka 46" class="float-right small heighten" type="schedule"]Publicering senast <strong>sön 17 nov</strong>[/cp-message-box]
-
-
 I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följande:
 
 
