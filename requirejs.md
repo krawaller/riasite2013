@@ -13,14 +13,14 @@ I **EcmaScript Harmony** (nästa generations JavaScript) så finns också [plane
 
 ###RequireJS i kursen
 
-Som ni såg på [kodorganiseringssidan][7] och i [steg 1][8] så är det helt frivilligt att använda RequireJS. Om ni väljer att göra det så vill vi ge er några tips på vägen:
+Som ni såg på [kodorganiseringssidan][7] och i [steg 1][8] så är det obligatoriskt att använda RequireJS. Här kommer några tips:
 
 *    RequireJS är, som sades i inledningen, ett **väldigt avancerat** bibliotek. Vi vill därför påpeka samma sak som apropå Backbone - målet är att ni skall förstå problemet (modulhantering), inte att ni skall bli experter på just RequireJS. **Gräv därför inte ned er för djupt!** Om ni inte vill, förstås. :)
 *    Det kan vara lite lurigt att använda **AMD-moduler parallellt med "vanliga" JavaScriptfiler**. Det finns lite förenklat två olika lösningar på detta:
 
     1.    man kan **stöpa om alla filer** så att de verkligen blir AMD-moduler. Exempelvis finns jQuery, underscore och Backbone i [AMD-varianter][1].
     2.    man kan **acceptera att ha vissa yttre beroenden** (såsom Backbone osv) som vanliga globala variabler, och bara modularisera sin egen kod. Detta är helt ok. Välj alternativ 1 endast om ni verkligen vill komma in i RequireJS.
-*    RequireJS innehåller också en **optimerare**, som man kör för att göra sina filer produktionsredo. Den minifierar all JavaScript, och konkatenerar allt till en enda fil (vilket den kan göra eftersom alla beroenden är definierade). Detta kan ni helt strunta i inom ramen för kursen, om ni inte är väldigt sugna på att sätta er in i hur den används.
+*    RequireJS innehåller också en **optimerare**, som man kör för att göra sina filer produktionsredo. Den minifierar all JavaScript, och konkatenerar allt till en enda fil (vilket den kan göra eftersom alla beroenden är definierade). Detta kan ni helt strunta i inom ramen för kursen, om ni inte är väldigt sugna på att sätta er in i hur den används. Tillfälle till detta ges i **byggsteget**.
 
 
 
