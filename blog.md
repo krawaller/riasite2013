@@ -1,3 +1,7 @@
+*Uppdatering: Det verkar som att Calepin inte längre mår så bra. Kör istället på Scriptogr.am, längst ned på sidan!*
+
+
+
 Många av er har förmodligen redan en blogg upplagd, och då är det helt ok att skriva kursinläggen på denna. Ni ombeds dock, om möjligt, ge dessa inlägg en unik tagg, så att det är lätt att filtrera innehåll som är relevant för kursen.
 
 Om ni inte han en blogg så vill vi tipsa om [Calepin][1]! Det är ett väldigt enkelt och smidigt system, som egengligen bara består av en sammanslagning av [Dropbox][2], [Disqus][3] och [Markdown][4]. Att sätta upp bloggen är nästan löjligt enkelt;

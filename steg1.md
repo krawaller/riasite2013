@@ -1,6 +1,5 @@
 Denna vecka kommer du tillbringa i vapenförrådet för att studera och välja ut de verktyg du vill använda. 
 
-1.  Innan du kan börja plocka på dig leksaker så måste du först av allt **sätta dig in** i [Backbone][1]. Beroende på hur mycket förkunskaper du har så kommer detta ta olika lång tid, men det är av vikt att du inte slarvar här! Kursen i sig handlar egentligen inte om Backbone utan om organisering av JS-applikationer, men det är Backbone vi kommer använda både för att förstå och lösa problemet.
 2.  Därefter är det dags att **välja beståndsdelar** du vill arbeta med. Som du har sett i kurspresentationen, Backboneinformationen och på andra ställen så finns det en hel del val att göra: 
     *   Användning av [RequireJS][2] är obligatoriskt, men hur djupt du väljer att sjunka i det kaninhålet är upp tilld dig. Förståelse för modulproblematiken i JavaScript är central vid organisering av applikationer, och Require är bara en möjlig lösning, så för högre betygssteg är det viktigt att du inte bara fokuserar på RequireJS:s API, utan på den bakomliggande anledningen till att vi gör som vi gör.
     *   Läs på om [koddokumentering][3] och bestäm dig för hur du vill göra.
