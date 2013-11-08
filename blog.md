@@ -1,4 +1,4 @@
-*Uppdatering: Det verkar som att Calepin inte längre mår så bra. Kör istället på Scriptogr.am, längst ned på sidan!*
+*Uppdatering 8/11: Det verkar som att Calepin inte längre mår så bra. Kör istället på Scriptogr.am, längst ned på sidan!*
 
 
 
