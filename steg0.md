@@ -8,14 +8,14 @@ I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följa
 5.  **JavaScript refresher:** Kolla igenom [Avancerad JavaScript][7] under Resurser, och säkerställ att du är up to speed med allting som nämns där. Förmodligen har du koll på det allra mesta sedan tidigare kursen. [John Resig's Learn App][8]&nbsp;är obligatorisk att gå igenom! Läs också på om [kodkvalitét][9] och [kodorganisering][10].
 5.  Du behöver också göra en tidsinvestering på att **sätta dig in** i [Backbone][16]. Beroende på hur mycket förkunskaper du har så kommer detta ta olika lång tid, men det är av vikt att du inte slarvar här! Kursen i sig handlar egentligen inte om Backbone utan om organisering av JS-applikationer, men det är Backbone vi kommer använda både för att förstå och lösa problemet.
 5.  Kursen är ganska fritt hållen, så du har en del **vägval** att göra. Som du har sett i kurspresentationen, Backboneinformationen och på andra ställen så finns ett antal stigar att följa: 
-    *   Användning av [RequireJS][2] är obligatoriskt, men hur djupt du väljer att sjunka i det kaninhålet är upp tilld dig. Förståelse för modulproblematiken i JavaScript är central vid organisering av applikationer, och Require är bara en möjlig lösning, så för högre betygssteg är det viktigt att du inte bara fokuserar på RequireJS:s API, utan på den bakomliggande anledningen till att vi gör som vi gör.
-    *   Läs på om [koddokumentering][3] och fundera på hur du vill göra.
-    *   Kika på [Twitter Bootstrap][4] och se om du vill använda det. Om du redan är bekväm i annan, liknande lösning så är det helt ok att använda denna istället. Det är inget krav att använda ett "UI-hjälpmedel" över huvud taget, men det ger bonuspoäng att göra det.
+    *   Användning av [RequireJS][52] är obligatoriskt, men hur djupt du väljer att sjunka i det kaninhålet är upp tilld dig. Förståelse för modulproblematiken i JavaScript är central vid organisering av applikationer, och Require är bara en möjlig lösning, så för högre betygssteg är det viktigt att du inte bara fokuserar på RequireJS:s API, utan på den bakomliggande anledningen till att vi gör som vi gör.
+    *   Läs på om [koddokumentering][53] och fundera på hur du vill göra.
+    *   Kika på [Twitter Bootstrap][54] och se om du vill använda det. Om du redan är bekväm i annan, liknande lösning så är det helt ok att använda denna istället. Det är inget krav att använda ett "UI-hjälpmedel" över huvud taget, men det ger bonuspoäng att göra det.
     *   Fundera över om du vill använda **relationer** i Backbone, och hur dessa i så fall skall upprättas.
-    *   Skall du använda Backbones [vanliga localStorage-modul][10], eller vågar du dig på den elakare [asynkrona versionen][9]?
-    *   Kanske vill du göra din applikation [offline-säker][5]?
-    *   En större fråga: vill du [arbeta testdrivet][6]? Detta beslut kommer ha ganska stor påverkan på hur du arbetar framöver. Tröskeln för att komma igång med testdriven utveckling kan vara ganska hög, men när man väl är över den så kommer du aldrig vända dig om. Om du ger dig på detta så måste du välja vilket bibliotek du skall använda för dina test.
-    *   Förmodligen har du hört talas om [CoffeeScript][7] - kanske är detta läget att prova, om du inte redan gjort det?
+    *   Skall du använda Backbones [vanliga localStorage-modul][510], eller vågar du dig på den elakare [asynkrona versionen][59]?
+    *   Kanske vill du göra din applikation [offline-säker][55]?
+    *   En större fråga: vill du [arbeta testdrivet][56]? Detta beslut kommer ha ganska stor påverkan på hur du arbetar framöver. Tröskeln för att komma igång med testdriven utveckling kan vara ganska hög, men när man väl är över den så kommer du aldrig vända dig om. Om du ger dig på detta så måste du välja vilket bibliotek du skall använda för dina test.
+    *   Förmodligen har du hört talas om [CoffeeScript][57] - kanske är detta läget att prova, om du inte redan gjort det?
 
 6.  **Blogginlägg:** Alla kurssteg redovisas med (minst) ett blogginlägg. Nu är det dags att skriva kursens första! Ta med...
     *   en **presentation** av dig själv
@@ -23,6 +23,7 @@ I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följa
     *   vilka **JavaScriptresurser** du nyttjar. Har du köpt någon/några av böckerna på litteraturlistan? Några siter du vänder dig till?
     *   dina **förhoppningar** på kursen
     *   hur din **utvecklingsmiljö** ser ut. Vilken editor använder du? Plugins? Build tools? Bonus om du som en förberedelse för kursen vidtar åtgärder för att vässa din miljö ytterligare, lista i så fall dessa åtgärder också! Det kan innebära att byta editor, eller bemästra din gamla ännu lite mer (kortkommandon, effektiviserande plugins, etc).
+    *   de **vägval** du (preliminärt) gjort. Detta huggs inte i sten så givetvis är det fritt fram att ändra sig senare, men, vi vill ändå att du ger en första redogörelse redan nu över hur du tänker!
 
     När du har skrivit ditt inlägg, länka till det i den korresponderande [tråden i forumet][13]!
 
@@ -47,3 +48,16 @@ I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följa
  [14]: http://krawaller.github.io/riacastle/
  [15]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/guilden/
  [16]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/backbone/
+
+
+ [52]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/require/
+ [53]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/dokumentation/
+ [54]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/twitter-bootstrap/
+ [55]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/offline-applikationer/
+ [56]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/test-driven-utveckling/
+ [57]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/coffeescript/
+ [58]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/applikationsideer/  
+ [59]: https://gist.github.com/4450947
+ [510]: https://github.com/jeromegn/Backbone.localStorage/blob/master/backbone.localStorage.js
+ [511]: https://coursepress.lnu.se/grupper/ria-utveckling-med-javascript-vt13/forum/topic/steg-1-vagval/
+ [512]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/kodorganisering/
