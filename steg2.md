@@ -4,7 +4,7 @@ Nu är det äntligen dags att ta de första spadtagen till applikationen! Följa
     *   Enkla **mockups** som visar flödet genom applikationen
     *   **Use cases** som beskriver funktionaliteten
     *   **Domänmodeller** och/eller **klassdiagram** (kanske via [yUML.me][1]). 
-2.  Och så börjar vi gräva! Din applikation skall bo i ett repositorium på Github, så vi måste inleda med att skapa ett sådant. Det gör du genom att forka [mallrepositoriet][2]. Mallen innehåller inga filer, utan är ett sätt för kursledningen att enkelt ha överblick över kursdeltagarnas repositorier.
+2.  Och så börjar vi gräva! Din applikation skall bo i ett repositorium på Github, så vi måste inleda med att skapa ett sådant. Det gör du genom att forka [mallrepositoriet][2]. Mallen innehåller inga filer, utan är ett sätt för kursledningen att enkelt ha överblick över kursdeltagarnas repositorier. Kom ihåg att eftersom vi använder Githubs pages-system för publikation (se [gitsidan][8] för mer info) så måste du skapa en ny branch med namnet *gh-pages* och arbeta mot den.
 3.  När du har repositoriet på plats skall det fyllas med de **verktyg** du valt att använda:
     *   Backbone, Underscore och jQuery
     *   localStorage-plugin till Backbone (den [vanliga][6] eller den [elakare asynkrona][7])
@@ -25,3 +25,4 @@ Nu är det äntligen dags att ta de första spadtagen till applikationen! Följa
  [5]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/coffeescript/
  [6]: https://github.com/jeromegn/Backbone.localStorage
  [7]: https://gist.github.com/4450947
+ [8]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/git-github/

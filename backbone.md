@@ -8,14 +8,14 @@ Det är vikigt att förstå att Backbone inte är ett fullfjädrat ramverk som e
 
 ### Backbone i kursen
 
-För att använda Backbone så inkluderar ni helt enkelt biblioteket i ert git-repo. Det finns dock en liten hake - om ni tänker [modularisera er kod via RequireJS][15] (vilket rekommenderas) så bör ni vara medvetna om att Backbone inte är AMD-kompatibelt, vilket gör att det inte direkt kan användas med RequireJS (se diskussion [här][4]). Läs mer på [Require-sidan][15] för att se vad som behöver göras.
+För att använda Backbone så inkluderar ni helt enkelt biblioteket i ert git-repo. Det finns dock en liten hake - om ni tänker [modularisera er kod via RequireJS][15] (vilket rekommenderas) så bör ni vara medvetna om att Backbone inte är AMD-kompatibelt, vilket gör att Backbone (kanske) inte direkt kan användas med RequireJS (se diskussion [här][4]). Läs mer på [Require-sidan][15] för att se vad som behöver göras.
 
 Likt jQuery så har Backbone en plugin-struktur. Här är några som skulle kunna vara relevanta:
 
 *   [Backbone.localStorage][18] är så gott som obligatorisk att använda. Den sparar din applikations modeller i localStorage, vilket gör att appen kan köras i browsern utan backend. Vill du kan du istället använda [min asynkrona version av pluginen][20], som är designad att vänta i 3 sekunder innan den svarar. Detta för att du skall tvingas till utmaningar i ditt UI och din kod.
 *   [Backbone.rel][9] är en ganska lättviktigt och därmed lättanvänt relationsplugin.
 *   [Backbone Relational][10] är mer avancerat men väldigt kraftfullt. Det har en [bra tutorial][11] som visserligen använder MongoDB, men allt är applicerbart även när man bara kör local storage.
-*   Vill ni inte uttryckligen deklarera relationer i Backbone sp jan ni kika på denna [blogpost][12] om att lösa det själv.
+*   Vill ni inte uttryckligen deklarera relationer i Backbone så kan ni kika på denna [blogpost][12] om att lösa det själv.
 
 En mängd övriga plugins finns listade på [Backbones wiki][17].
 
@@ -33,7 +33,7 @@ Det finns en uppsjö av övriga Backbone-resurser på nätet. Här kommer ett li
 *    [Videotutorial][6] av Nick Gauthier
 *    Siten [Backbone Patterns][7]
 *    Siten [Backbone Tutorials][8]
-*    [Backboneavsnitt][9] av JavaScript Jabber (dock mycket fokus även på Ember)
+*    [Backboneavsnitt][16] av JavaScript Jabber (dock mycket fokus även på Ember)
 
 För fler tips kan ni också slänga ett öga på tidigare års kurswebbar för denna kurs!
 

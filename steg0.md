@@ -1,3 +1,5 @@
+[cp-message-box header="Vecka 46" class="float-right small heighten" type="schedule"]Publicering senast <strong>sön 17 nov</strong>[/cp-message-box]
+
 
 I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följande:
 
@@ -15,6 +17,8 @@ I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följa
     *   dina **förhoppningar** på kursen
     *   hur din **utvecklingsmiljö** ser ut. Vilken editor använder du? Plugins? Build tools? Bonus om du som en förberedelse för kursen vidtar åtgärder för att vässa din miljö ytterligare, lista i så fall dessa åtgärder också! Det kan innebära att byta editor, eller bemästra din gamla ännu lite mer (kortkommandon, effektiviserande plugins, etc).
 
+    När du har skrivit ditt inlägg, länka till det i den korresponderande [tråden i forumet][13]!
+
  [1]: http://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/enkelt-bloggupplagg/ "Enkelt bloggupplägg"
  [2]: http://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/cloud9-editor/
  [3]: http://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/git-github/ "Git &amp; Github"
@@ -27,3 +31,4 @@ I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följa
  [10]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/kodorganisering/ 
  [11]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/steg-2-hello-world/
  [12]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/om/
+ [13]: https://coursepress.lnu.se/grupper/ria-utveckling-med-javascript-vt13/forum/topic/steg-0-kratta-manegen/

@@ -1,4 +1,10 @@
-bla bla problem space bla bla 
+Precis som Backbone erbjuder en minimalistisk grundplåt för apporganisation, så utgör Twitter Bootstrap en **utgångspunkt för dess design**. TB:s huvudsakliga innehåll är en stor CSS-fil, med en mängd fördefinierade klasser. Dessa erbjuder ett smart grid-system, men också andra saker som insets, typografi, etc.
+
+Twitter Bootstrap innehåller också ett gäng **UI-kontroller**, i stil med jQuery UI och liknande.
+
+Att använda Twitter Bootstrap är **helt frivilligt**. Vi vill ändå att ni som inte använt det förut skall bekanta er med denna sorts verktyg - det finns mycket tid och energi att spara på att ha en CSS-grundplåt som man lärt sig använda väl.
+
+Här är några bra **resurser** för att komma igång:
 
 *   [Official homepage][1]
 *   [Tutorialserie på Tutsplus][2]

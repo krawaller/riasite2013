@@ -5,13 +5,13 @@ När man på egen hand knåpar ihop applikationer är dokumentationskraven ofta 
 3.  **API-detaljnivå**, vilket i JavaScriptvärlden oftast innebär att vi använder JSDoc. Här dokumenterar vi detaljerat varje funktion - vilka argument den tar, vilka beroenden den har och vad den returnerar. Även nu lägger vi själva dokumentationen som kommentarer i källkoden och genererar dokumentationen utifrån det. En sådan genererad dokumentation kan se ut [så här][3].
 
 
-Den första nivån kommer ni löpande göra via bloggen. Sedan får ni välja om ni vill fokusera på nivå 2 eller 3. Ni behöver inte köra båda, men minst en är obligatorisk.
+Den första nivån kommer ni löpande göra via bloggen. Sedan får ni **välja om ni vill fokusera på nivå 2 eller 3**. Ni behöver inte köra båda, men minst en är obligatorisk.
 
-Om ni väljer att köra kommenterad källkod (nivå 2), så vill vi att ni använder [Brocco][4]. Det är en fork av Docco som fungerar direkt i browsern (därav "Br"). Det innebär att ni kan ha dokumentationen som en del av själva appen, utan att själv behöva generera den. Ni kan se ett exempel av Brocco-implementation i [demoprojektet][6].
+Om ni väljer att köra kommenterad källkod (nivå 2), så är ett hett tips att använda [Brocco][4]. Det är en fork av Docco som fungerar direkt i browsern (därav "Br"). Det innebär att ni kan ha dokumentationen som en del av själva appen, utan att själv behöva generera den. Ni kan se ett exempel av Brocco-implementation i [demoprojektet][6].
 
 Vill ni hellre API-dokumentation (nivå 3) så kan ni använda onlinetjänsten [jsdoc.info][5]. Den kan automagiskt generera API-dokumentation utifrån ett Github-repositorium, förutsatt att den aktuella koden har JSDoc-kommentarer. Det enda ni då behöver göra är att länka till den genererade dokumentationen på jsdoc.info!
 
-Oavsett lösning ni gäller så skall dokumentationen integreras i själva appen via en synlig länk/knapp/menyalternativ.
+Oavsett lösning ni gäller så skall **dokumentationen integreras i själva appen** via en synlig länk/knapp/menyalternativ.
 
  [1]: http://backbonejs.org/docs/backbone.html
  [2]: https://github.com/documentcloud/backbone/blob/master/backbone.js
