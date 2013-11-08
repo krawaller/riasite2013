@@ -30,6 +30,7 @@ En alldeles väldigt utmärkt artikel om funktionell programmering finns i [allr
 *   [Douglas Crockford @ YUI Theater 2010-02: Function the ultimate][9]: Klassiker, men fortfarande en väldigt bra föreläsning av mr Crockford.
 *   [Jim Weirich @ Scotland JS 2012-06: adventures in functional programming][8]: Lite far out there, men ganska kul om man förlåter den lite väl akademiska approachen.
 
+Men främsta resursen är Michael Fogus bok, [Functional JavaScript][16]. Ett utmärkt sätt att ta din JS-förståelse till nästa nivå!
 
 ### Asynkron programmering
 
@@ -57,4 +58,5 @@ Ni kan också med fördel titta närmre på [biblioteket med samma namn][10]. V�
  [12]: https://leanpub.com/asyncjs  
  [13]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/backbone/
  [14]: http://www.jsmag.com/main.issues.description/id=1/
- [15]: AsyncJS
+ [15]: http://www.amazon.com/Async-JavaScript-Trevor-Burnham/dp/1475247362
+ [16]: http://blog.fogus.me/2013/03/20/fun-js/
