@@ -27,6 +27,8 @@ I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följa
 
     När du har skrivit ditt inlägg, länka till det i den korresponderande [tråden i forumet][13]!
 
+7.  **Handledning:** Du rekommenderas också försöka få till ett första handledningspass med David. Det är inte ett supermåste att göra under denna vecka, men gör du det inte nu så måste du göra det under nästa steg!
+
 7.  **Deltagarlistan:** Nu i höst så kommer vi ha koll på varandra via [The JavaScript Guild][14], där du som en del av detta steg skall bli medlem. Se närmre på [resurssidan][15] för hur du går till väga för att komma med! En del av datan du måste föra in (projektinfo och fördjupningsval) kommer du förmodligen inte ha bestämt ännu, skriv bara något tillfälligt här så länge. Sammantaget, i detta steg, så skall du..
     *    Registrera dig själv
     *    Utföra "join"-kommandot
