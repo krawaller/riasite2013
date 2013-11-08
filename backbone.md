@@ -1,4 +1,3 @@
-
 ### Varför Backbone?
 
 Den applikation som vi bygger i kursen kommer vila på kodbiblioteket **Backbone**. Meningen är egentligen inte att ni skall lära er just Backbone - det finns ett otal andra bibliotek som löser samma problem på ett fullgott sätt. Meningen är istället att ni skall *förstå problemet*. Det Backbone, och dess konkurrenter, gör är att de erbjuder en grundläggande **infrastruktur för kommunikation** i appen, och ett sätt att **hålla koden modulär**.
