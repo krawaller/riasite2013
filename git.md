@@ -28,7 +28,7 @@ I kursen är det **obligatoriskt att använda Github** som repositorium. Tidigar
 
 Vi kommer dessutom använda **Github som publiceringsplattform** för våra projekt! Detta genom att utnyttja en funktionalitet de kallar för *Github pages*. Kortfattat går den ut på att all kod som pushas till en branch med namnet "gh-pages" (det vanliga standardnamnet är annars "master") deployas till en webserver, och blir tillgänglig på `http://<githubid>.github.com/<projektnamn>`.
 
-Ni skall utgå från ett [mallprojekt][6] som jag skapat på Github. Det innehåller inga filer, utan är bara till för att tvinga er att pröva att forka, och göra det lite lättare för mig att följa er. Detta mallprojekt innehåller bara branchen "master", så ni måste själva skapa en ny branch gh-pages. Om ni sedan väljer att... 
+Om ni sedan väljer att... 
 
 1.    ta bort master
 2.    låta master vara kvar men glömma bort den
@@ -39,6 +39,7 @@ Ni skall utgå från ett [mallprojekt][6] som jag skapat på Github. Det innehå
 
 ###Resurser
 
+*    [Skolans Git-intro][8]
 *    [Introduktion till Github][2], inkluderar även en Git primer
 *    [Introduktion till Git][3] för den som inte blev mätt på Git-infon i Githubguiden ovan
 *    [Gitintro av Jenny Donelly][1]
@@ -54,5 +55,5 @@ Ni skall utgå från ett [mallprojekt][6] som jag skapat på Github. Det innehå
  [3]: http://git-scm.com/book/en/Getting-Started-Git-Basics
  [4]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/cloud9-editor/
  [5]: https://github.com/
- [6]: https://github.com/krawaller/riaprojekt2013
  [7]: http://voyager.lnu.se/tekinet/kurser/dtt/2DV407/index.php?sida=html%2Fresurser%2Fgit
+ [8]: https://coursepress.lnu.se/info/manual/kom-igang-med-github/

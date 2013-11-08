@@ -16,6 +16,8 @@ Genom kursen kommer ni ha regelbunden **handledning** av lärare, just för att 
 
 Ni kommer också få tillfällen att **diskutera med varandra**, både generellt på kursens forum men också mer direkt via **kollaborering** i varandras projekt.
 
+Ni kommer också dokumentera era göranden i [The JavaScript Guild][5], där jag kan ha koll på er och ni på varandra!
+
 Kursen avslutas med en **djupdykning** i någon av de tekniker eller teknologier ni använt i er applikation. Denna djupdykning resulterar sedan i en **presentation** som alla kursdeltagare kan ta del av. 
 
 Förhoppningen är att detta sammantaget kommer ge en god bild av vad det innebär att **strukturera applikationer i JavaScript**!
@@ -54,3 +56,4 @@ I och med att kursen har ganska lösa tyglar så blir betygsnivåerna diffusa. G
  [2]: http://voyager.lnu.se/tekinet/kurser/dtt/wp_webbteknik/index.php "Webbteknik I"
  [3]: https://coursepress.lnu.se/kurs/inledande-programmering-med-csharp/ "Inledande programmering med C#"
  [4]: http://voyager.lnu.se/tekinet/kurser/Dtt/DT2380/ "OOAD"
+ [5]: http://krawaller.github.io/riacastle/
