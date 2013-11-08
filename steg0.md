@@ -30,4 +30,4 @@ I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följa
  [12]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/om/
  [13]: https://coursepress.lnu.se/grupper/ria-utveckling-med-javascript-vt13/forum/topic/steg-0-kratta-manegen/
  [14]: http://krawaller.github.io/riacastle/
- [12]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/guilden/
+ [15]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/guilden/
