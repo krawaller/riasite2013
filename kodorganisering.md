@@ -54,7 +54,7 @@ De flesta andra språk har detta inbyggt - ett enkelt sätt att i en fil importe
 
 1.    Inte alls, dvs **lagra allt i det globala objektet**. Detta är i denna kurs absolut förbjudet.
 2.    Lagra i det globala objektet, men på ett organiserat sätt via en **singleton**. Vi skapar ett objekt som håller vår applikation, och alla filer vi laddar in kommer sedan utöka detta objekt. Filerna kommer därmed vara hårt knutna till just denna struktur, men vi har ändå någon sorts organisation av våra beståndsdelar. Detta är bättre än inget, och genom lite smart användning av Inversion of Control kan man komma undan med att begränsa strukturberoendet till enstaka objekt på hög nivå. Singletons är ok i kursen, så länge det görs väl. 
-3.    Användandet av ett **modulsystem**. Det finns ett flertal bibliotek som implementerar en traditionell modulladdare i JavaScript. Ett av de mest populära är [RequireJS][8], vars användning rekommenderas i kursen. 
+3.    Användandet av ett **modulsystem**. Det finns ett flertal bibliotek som implementerar en traditionell modulladdare i JavaScript. Ett av de mest populära är [RequireJS][8], vars användning är obligatoriskt i kursen.
 
 
 ###Kopplingar och använding
