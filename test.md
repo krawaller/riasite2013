@@ -32,7 +32,7 @@ Om du väljer att utveckla testdrivet - vilket vi varmt rekommenderar - så inne
 
 Kom också ihåg kravet på att hela applikationen skall kunna köras via Github Pages. Detta innefattar testsviten! Du kan därmed inte använda ett bibliotek som kör tester via exempelvis Node, utan endast de som erbjuder exekvering i en html-sida. Denna sida skall du länka till i projektet, precis som med den genererade dokumentationen.
 
-Om du i [kollaboreringssteget][3] gör en pullrequest mot ett projekt om har en test suite, så bör du givetvis lägga till test för din funktionalitet också!
+Om du läser Daniel Tolls testkurs parallellt, så kommer det finnas möjlighet att låta kurserna klia varandra på ryggen.
 
 ### Resurser
 
@@ -42,6 +42,5 @@ På kurswebben för 2010-11 finns en [guide][5] som visar tänket bakom testning
 
 [1]: http://tryjasmine.com/
 [2]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/kurslitteratur/
-[3]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/steg-4-kollaborering-v10/
 [4]: http://blog.involver.com/2012/01/26/testing-backbone-js-best-practices-2/
 [5]: http://voyager.lnu.se/tekinet/kurser/dtt/2DV407/index.php?sida=html%2Fresurser%2Fjspec
