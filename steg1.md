@@ -1,4 +1,4 @@
-Nu är det äntligen dags att ta de första spadtagen till applikationen! Följande arbetsgång rekommenderas: 
+Nu är det äntligen dags att ta de första spadtagen till applikationen!
 
 1.  Börja med att **fundera över din applikationsidé**, alltså vad du skall bygga. Här i RIA-kursen kommer vi inte vara lika formella som i OOAD-kursen vad gäller formalia kring datamodeller och dylikt, så det är upp till dig hur du väljer att dokumentera din idé. Dokumentationen kan inkludera:
     *   Beskrivning i **klartext**
@@ -50,7 +50,7 @@ Nu är det äntligen dags att ta de första spadtagen till applikationen! Följa
  [7]: https://gist.github.com/4450947
  [8]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/git-github/
  [9]: http://krawaller.github.io/riacastle/#armoury
- [10]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/build/
+ [10]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/byggprocess/
 
 
  [52]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/require/

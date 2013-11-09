@@ -19,5 +19,7 @@ Det **allra sista blogginlägget** i kurssteget skall dessutom innehålla följa
 
 Hur omfattande din applikation blir kan variera väldigt mycket, beroende hur mycket tid du väljer att lägga på inläsning, experimenterande, kollaborering, bloggande, etc. Det som är viktigt är att din sammanlagda insats inte blir lidande av den stora frihetsgraden; även om du inte har koppel på dig så innebär dessa fyra halvfartsveckor 80 arbetstimmar, vilket i någon utsträckning bör avspegla sig i den totala prestationen.
 
+Det kan också löna sig att tjuvkika på [Steg 3](), där vi skall sjösätta appen på iOS eller Android. Om du vill kan du redan nu påbörja den processen, och löpande testa appen på din Smartphone!
+
 [1]: http://bit.ly/riaforum2013ht
 [2]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/cloud9-editor/

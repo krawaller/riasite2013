@@ -1,0 +1,1 @@
+Nu står applikationen (i någon mening) klar, och det har blivit dags för sjösättning! Vi kommer använda [Phonegap Build]() och [Testflight]() för att förpacka din webapp som en native app och få in den på din Smartphone
