@@ -5,7 +5,7 @@
 
 ###Registrering
 
-I kursens första steg skall du gå med i kursens Testflight-team. Det gör du genom att besöka [denna rekryteringslänk](http://tflig.ht/17UbuKy) och registrera dig själv.
+I kursens första steg, om du vill smaka på natifiering, skall du gå med i kursens Testflight-team. Det gör du genom att besöka [denna rekryteringslänk](http://tflig.ht/17UbuKy) och registrera dig själv.
 
 När du gjort det skall du också registrera minst 1 iOS- eller Android-device, som du vill använda för att testa din (och andras!) app på. Om du använder en iPhone så måste du använda Mobile Safari för att surfa in, du kan inte använda en tredjeparts webbläsare!
 
