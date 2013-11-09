@@ -1,7 +1,7 @@
 Så har det blivit dags för **implementering**! Under de kommande fyra veckorna kommer du bygga och färdigställa din valda applikation. Detta innebär att du
 
 *    först och främst givetvis kommer **programmera din applikation**.
-*    styr ditt projekt via Issues på Github. När du skall lägga till något i din app eller fixa en bugg, skapa en issue! När målet är uppnått, stäng den. Detta fyller två funktioner; dels får du smaka på att använda Github som ett projektstyrningsverktyg, och dels blir det lättare för andra att hjälpa dig (se nedan).
+*    styr ditt projekt genom **issues på Github**. När du skall lägga till något i din app eller fixa en bugg, skapa en issue! När målet är uppnått, stäng den. Detta fyller två funktioner; dels får du smaka på att använda Github som ett projektstyrningsverktyg, och dels blir det lättare för andra att hjälpa dig (se nedan).
 *    dokumentera utvecklingen i **blogginlägg**. Du publicerar minst ett i veckan med söndag som deadline, men du får mer än gärna dela upp det på flera småinlägg. Beskriv vad du gjort, vad som dykt upp under resans gång, iakttagelser om verktyg och bibliotek - vadhelst som faller dig in som har med utvecklingen och kursen att göra! Glöm också inte att annonsera inläggen i guilden!
 *    har tillgång till löpande **handledning**! Ett aktivt handledarskap under projektets gång är vad kursens resurser främst satsats på, så se till att ta tillfället i akt! Det är ditt ansvar att se till att du får kvalitétstid med lärare, även om jag också kommer ta initiativ till att fånga er emellanåt.
 *    håller **dokumentationen uppdaterad** löpande under utvecklingens gång. Låt inte denna falla efter!
