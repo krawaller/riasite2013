@@ -14,6 +14,7 @@ Nu är det äntligen dags att ta de första spadtagen till applikationen! Följa
     *   Fundera över om du vill använda **relationer** i Backbone, och hur dessa i så fall skall upprättas.
     *   Skall du använda Backbones [vanliga localStorage-modul][510], eller vågar du dig på den elakare [asynkrona versionen][59]?
     *   Kanske vill du göra din applikation [offline-säker][55]?
+    *   Skall du köra med en [byggprocess][10]?
     *   En större fråga: vill du [arbeta testdrivet][56]? Detta beslut kommer ha ganska stor påverkan på hur du arbetar framöver. Tröskeln för att komma igång med testdriven utveckling kan vara ganska hög, men när man väl är över den så kommer du aldrig vända dig om. Om du ger dig på detta så måste du välja vilket bibliotek du skall använda för dina test.
 
         Notera också att det finns möjlighet till synergi med den parallella Test-kursen som Daniel Toll håller, ifall du går även den!
@@ -49,6 +50,8 @@ Nu är det äntligen dags att ta de första spadtagen till applikationen! Följa
  [7]: https://gist.github.com/4450947
  [8]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/git-github/
  [9]: http://krawaller.github.io/riacastle/#armoury
+ [10]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/build/
+
 
  [52]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/require/
  [53]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/dokumentation/
