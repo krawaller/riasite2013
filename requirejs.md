@@ -20,7 +20,7 @@ Som ni såg på [kodorganiseringssidan][7] och i [steg 1][8] så är det obligat
 
     1.    man kan **stöpa om alla filer** så att de verkligen blir AMD-moduler. Exempelvis finns jQuery, underscore och Backbone i [AMD-varianter][1].
     2.    man kan **acceptera att ha vissa yttre beroenden** (såsom Backbone osv) som vanliga globala variabler, och bara modularisera sin egen kod. Detta är helt ok. Välj alternativ 1 endast om ni verkligen vill komma in i RequireJS.
-*    RequireJS innehåller också en **optimerare**, som man kör för att göra sina filer produktionsredo. Den minifierar all JavaScript, och konkatenerar allt till en enda fil (vilket den kan göra eftersom alla beroenden är definierade). Detta kan ni helt strunta i inom ramen för kursen, om ni inte är väldigt sugna på att sätta er in i hur den används. Tillfälle till detta ges i **byggsteget**.
+*    RequireJS innehåller också en **optimerare**, som man kör för att göra sina filer produktionsredo. Den minifierar all JavaScript, och konkatenerar allt till en enda fil (vilket den kan göra eftersom alla beroenden är definierade). Detta kan ni helt strunta i inom ramen för kursen, om ni inte är väldigt sugna på att sätta er in i hur den används som ett led i fokus på [byggprocess][12].
 
 
 
@@ -43,3 +43,4 @@ För att komma igång kan ni också slänga ett öga på [kursens demoprojekt][9
  [9]: https://github.com/krawaller/riademo
  [10]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/test-driven-utveckling/
  [11]: http://requirejs.org/
+ [12]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/byggprocess/
