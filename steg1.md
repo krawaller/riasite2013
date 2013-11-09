@@ -33,6 +33,9 @@ Nu är det äntligen dags att ta de första spadtagen till applikationen! Följa
     Glöm inte att projektet skall publiceras på Github Pages, så du måste jobba i en gh-pages branch!
 
 4.  Och så skall vi **hälsa på världen**! Lägg en grund till din applikation genom att initiera en app som skriver ut en välvald hälsningsfras. Detta skall inte göras i HTML-koden, utan du måste i detta steg ha en initierad Backbone-app som renderar en vy.
+
+5.  Om du inte gjorde det redan förra veckan så måste du också se till att få ett introducerande **handledningspass** med David!
+
 5.  Slutligen, i sedvanlig ordning, skall steget sammanfattas i ett **blogginlägg** som i sin tur annonseras med **complete**-kommandot i guilden.
 
  [1]: http://yuml.me/
