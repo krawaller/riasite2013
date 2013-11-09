@@ -1,12 +1,8 @@
-Nu är det dags att **kollaborera på riktigt**! Förmodligen har ni redan testat att rota runt i varandras kod under implementeringens gång. Nu är det dags att göra det mer aktivt!
 
-I sista blogginlägget i förra steget, när ni presenterade era appar, så hade ni med en sekvens om vad ni inte är så nöjda med, och vilka features som saknas. Dessa kan ni nu utnyttja när ni skall hitta tillfällen att bidra till era klasskamraters projekt!
+Välkommen i mål! Kursen är slut, och det enda som återstår är att skriva ett **avslutande blogginlägg**. Ha gärna med: 
 
-Den här veckan är nämligen helt dedikerad till att **göra pull requests i andras projekt**. Några få omfattande eller flertalet små, du väljer helt själv. Bonuspoäng om du ger dig i kast med repon som du inte har rört under implementeringsveckorna. I möjligaste mån vill jag låtar er välja helt fritt, men kanske ger jag någon/några av er specifika mål för att alla skall få ta emot pull requests.
+*   ...en **utvärdering av kursen**. Vad fungerade, vad var mindre lyckat? Hade du önskat att upplägget var friare, eller vill du hellre ha fler och mer detaljerade instruktioner? Etc.
+*   ...funderingar kring **din egen insats**. Är du nöjd med applikationen, djupdykningen, kollaboreringen, arbetsinsatsen?
+*   ...en **återkoppling** till ditt första blogginlägg apropå din inställning till JavaScript. Har den förändrats? Känner du dig bättre rustad?
 
-När veckan är över skall ni knyta ihop det hela i ett **blogginlägg** där ni...
-
-*    beskriver vilka pull requests ni har gjort, och vad ni åtgärdat / lagt till
-*    diskuterar hur det var att hantera andras kod. Var det lätt att sätta sig in i projektet? Hur mycket tvingades du luta dig mot dokumentation? etc.
-*    summerar och kommenterar de pull requests som andra gjort mot ditt projekt. 
-
+Så återstår bara för oss att önska er **lycka till** ute i det vilda! :)  
