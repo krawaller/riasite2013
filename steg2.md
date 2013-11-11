@@ -6,7 +6,7 @@ Så har det blivit dags för **implementering**! Under de kommande fem veckorna 
 *    har tillgång till löpande **handledning**! Ett aktivt handledarskap under projektets gång är vad kursens resurser främst satsats på, så se till att ta tillfället i akt! Det är ditt ansvar att se till att du får kvalitétstid med lärare, även om jag också kommer ta initiativ till att fånga er emellanåt.
 *    håller **dokumentationen uppdaterad** löpande under utvecklingens gång. Låt inte denna falla efter!
 *    också håller dina **test levande**, om du valt att utveckla testdrivet.
-*    ser till att du regelbundet **uppdaterar koden på PhoneGap Build** (info på [resurssidan][3], dels för att testa själv men också så att vi andra hela tiden kan ha en live version av appen i våra mobiler.
+*    ser till att du regelbundet **uppdaterar koden på PhoneGap Build** (info på [resurssidan][3]), dels för att testa själv men också så att vi andra hela tiden kan ha en live version av appen i våra mobiler.
 *    är **delaktig i dina klasskamraters arbeten**. Dels verbalt via [forumet][1] och kommentarsfält på bloggar, men framför allt via att göra **pull requests** mot deras projekt! Gärna kopplat till issues som mottagaren har registrerat.
 
      Tidigare år har vi haft ett kurssteg dedikerat åt kollaborering, men nu väver vi in det under hela implementeringsprocessen istället. Det finns ingen miniminivå över hur många pull requests du måste göra, då energikostnaden för dessa varierar vilt. Lägger du mycket tid på att hjälpa andra så kommer hänsyn tas till detta när ditt egna projekt bedöms. 
