@@ -9,7 +9,14 @@ I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följa
 5.  **Backbone:** Du behöver också göra en tidsinvestering på att sätta dig in i [Backbone][16]. Beroende på hur mycket förkunskaper du har så kommer detta ta olika lång tid, men det är av vikt att du inte slarvar här! Kursen i sig handlar egentligen inte om Backbone utan om organisering av JS-applikationer, men det är Backbone vi kommer använda både för att förstå och lösa problemet.
 5.  **Testflight:** Om du vill prova på natifiering av webappar (vilket starkt rekommenderas, det är enkelt och kul!) så ska du gå med i kursens [Testflight-team][17] och registrera minst 1 iOS- eller Android-device. Testflight, tillsammans med [PhoneGap Build][18], är vad vi kommer använda för att köra våra webappar native på smartphones.
 
-6.  **Blogginlägg:** Alla kurssteg redovisas med (minst) ett blogginlägg. Nu är det dags att skriva kursens första! Ta med...
+7.  **Handledning:** Du rekommenderas också försöka få till ett första [handledningspass][19] med David. Det är inte ett supermåste att göra under denna vecka, men gör du det inte nu så måste du göra det under nästa steg!
+
+7.  **Deltagarlistan:** Nu i höst så kommer vi ha koll på varandra via [The JavaScript Guild][14], där du som en del av detta steg skall bli medlem. Se närmre på [resurssidan][15] för hur du går till väga för att komma med! En del av datan du måste föra in (projektinfo och fördjupningsval) kommer du förmodligen inte ha bestämt ännu, skriv bara något tillfälligt här så länge. Sammantaget, i detta steg, så skall du..
+    *    Registrera dig själv
+    *    Utföra "join"-kommandot
+    *    Utföra "complete"-kommandot på "phase0", som motsvarar detta kurssteg.
+
+8.  **Blogginlägg:** Alla kurssteg redovisas med (minst) ett blogginlägg. Nu är det dags att skriva kursens första! Ta med...
     *   en **presentation** av dig själv
     *   din **erfarenhet av JavaScript**, med en kommentar till John Resigs Learn-app - hade du full koll sedan tidigare, eller fick du nya kunskaper?
     *   vilka **JavaScriptresurser** du nyttjar. Har du köpt någon/några av böckerna på litteraturlistan? Några siter du vänder dig till?
@@ -18,12 +25,6 @@ I detta prequel-steg skall vi kratta manégen inför kursen. Det innebär följa
 
     När du har skrivit ditt inlägg, länka till det i den korresponderande [tråden i forumet][13]!
 
-7.  **Handledning:** Du rekommenderas också försöka få till ett första [handledningspass][19] med David. Det är inte ett supermåste att göra under denna vecka, men gör du det inte nu så måste du göra det under nästa steg!
-
-7.  **Deltagarlistan:** Nu i höst så kommer vi ha koll på varandra via [The JavaScript Guild][14], där du som en del av detta steg skall bli medlem. Se närmre på [resurssidan][15] för hur du går till väga för att komma med! En del av datan du måste föra in (projektinfo och fördjupningsval) kommer du förmodligen inte ha bestämt ännu, skriv bara något tillfälligt här så länge. Sammantaget, i detta steg, så skall du..
-    *    Registrera dig själv
-    *    Utföra "join"-kommandot
-    *    Utföra "complete"-kommandot på "phase0", som motsvarar detta kurssteg.
 
  [1]: http://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/enkelt-bloggupplagg/ "Enkelt bloggupplägg"
  [2]: http://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/cloud9-editor/
