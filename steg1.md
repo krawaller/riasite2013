@@ -41,7 +41,7 @@ Nu är det äntligen dags att ta de första spadtagen till applikationen!
 
 5.  Den genererade appen från förra steg skall du sedan tanka upp på **Testflight** (se [resurssidan][12] för mer info).
 
-5.  Om du inte gjorde det redan förra veckan så måste du också se till att få ett introducerande **handledningspass** med David!
+5.  Om du inte gjorde det redan förra veckan så måste du också se till att få ett introducerande [handledningspass][13] med David!
 
 5.  Slutligen, i sedvanlig ordning, skall steget sammanfattas i ett **blogginlägg** som i sin tur annonseras med **complete**-kommandot i guilden.
 
@@ -57,7 +57,7 @@ Nu är det äntligen dags att ta de första spadtagen till applikationen!
  [10]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/byggprocess/
  [11]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/phonegapbuild/
  [12]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/testflight/
-
+ [13]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/handledning/
 
  [52]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/require/
  [53]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/dokumentation/

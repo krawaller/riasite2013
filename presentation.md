@@ -12,7 +12,7 @@ Under arbetets gång kommer du dokumentera vad du gör i en **blogg**. Denna blo
 *    underlättar för dina kurskamrater lättare att sätta sig in i ditt projekt vid kollaboreringsstegen
 *    tjänar som betygsunderlag för lärare.
 
-Genom kursen kommer ni ha regelbunden **handledning** av lärare, just för att hålla diskussionen levande. JavaScript är ett ovanligt dynamiskt och expressivt språk vilket gör det väldigt kraftfullt, men samtidigt också mindre självklart hur applikationer bäst konstrueras och kod organiseras. Ni uppmuntras att utnyttja tillfällena till handledning så mycket som möjligt. Kursen innebär ett stort eget ansvar, men det är inte liktydigt med att stöttning saknas! Handledningen är en stor resurs i både projektandet och lärandet.
+Genom kursen kommer ni ha regelbunden **handledning** av lärare, just för att hålla diskussionen levande (mer info [här][6]). JavaScript är ett ovanligt dynamiskt och expressivt språk vilket gör det väldigt kraftfullt, men samtidigt också mindre självklart hur applikationer bäst konstrueras och kod organiseras. Ni uppmuntras att utnyttja tillfällena till handledning så mycket som möjligt. Kursen innebär ett stort eget ansvar, men det är inte liktydigt med att stöttning saknas! Handledningen är en stor resurs i både projektandet och lärandet.
 
 Ni kommer också få tillfällen att **diskutera med varandra**, både generellt på kursens forum men också mer direkt via **kollaborering** i varandras projekt.
 
@@ -57,3 +57,4 @@ I och med att kursen har ganska lösa tyglar så blir betygsnivåerna diffusa. G
  [3]: https://coursepress.lnu.se/kurs/inledande-programmering-med-csharp/ "Inledande programmering med C#"
  [4]: http://voyager.lnu.se/tekinet/kurser/Dtt/DT2380/ "OOAD"
  [5]: http://krawaller.github.io/riacastle/
+ [6]: https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/handledning/
